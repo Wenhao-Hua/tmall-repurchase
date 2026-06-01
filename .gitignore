@@ -1,0 +1,36 @@
+# Competition data
+data/*
+!data/README.md
+
+# Generated predictions and model artifacts
+outputs/
+submissions/
+submit*.csv
+*.pkl
+*.pickle
+*.joblib
+*.parquet
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and secrets
+.env
+.env.*
+.venv/
+venv/
+env/
+
+# Editors and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
