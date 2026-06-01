@@ -1,4 +1,4 @@
-# 吉林大学23软件数据挖掘期末作业：天猫复购预测
+# 吉林大学23级软件数据挖掘期末作业：天猫复购预测
 
 这是数据挖掘课期末作业整理出来的版本，题目选的是天池日常学习赛「[天猫复购预测-挑战 Baseline](https://tianchi.aliyun.com/competition/entrance/231576/information)」。
 
